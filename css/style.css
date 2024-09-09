@@ -13,6 +13,11 @@ body {
     flex-direction: column;
 }
 
+img {
+    width: 350px;
+    margin: 50px;
+}
+
 i {
     color: #fff;
     position: absolute;
@@ -26,10 +31,6 @@ i {
     justify-content: center;
     align-items: center;
 }
-
-/* button:hover .span {
-    opacity: 1;
-} */
 
 .span {
     width: 100px;
